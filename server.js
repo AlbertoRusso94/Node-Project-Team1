@@ -1,4 +1,5 @@
 const express = require('express');
+require('dotenv').config();
 const db = require('./models/index');
 const authRouter = require('./routers/auth');
 
@@ -12,5 +13,4 @@ app.listen(8000, () => console.log('Server running'));
 
 db.sequelize.sync().then(() => {
   console.log('up');
-  init();
 });
