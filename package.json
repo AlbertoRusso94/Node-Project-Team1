@@ -1,0 +1,19 @@
+{
+  "name": "node-project-team1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertoRusso94/Node-Project-Team1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertoRusso94/Node-Project-Team1/issues"
+  },
+  "homepage": "https://github.com/AlbertoRusso94/Node-Project-Team1#readme"
+}
